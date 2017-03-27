@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ws3</string>
+    <string name="Mandt">Mandt</string>
+    <string name="Bname">Bname</string>
+    <string name="Stcod">Stcod</string>
+    <string name="Spld">Spld</string>
+    <string name="Splg">Splg</string>
+    <string name="Spdb">Spdb</string>
+    <string name="Spda">Spda</string>
+    <string name="Datfm">Datfm</string>
+    <string name="Dcpfm">Dcpfm</string>
+    <string name="Hdest">Hdest</string>
+    <string name="Hmand">Hmand</string>
+    <string name="Hname">Hname</string>
+    <string name="Menon">Menon</string>
+    <string name="Menue">Menue</string>
+    <string name="Strtt">Strtt</string>
+    <string name="Langu">Langu</string>
+    <string name="Cattkennz">Cattkennz</string>
+    <string name="Timefm">Timefm</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
